@@ -13,7 +13,7 @@ one-to-one and onto function (bijection) $f: V_1 \rightarrow V_2$ such that $(u,
 
 ## Answer
 
-Assuming that two graphs $A$ and $B$ do not have the same number of nodes. So, in this case, they cannot be one-to-one and onto because each grash has different number of nodes. So, they are not isomorphic.
+Assuming that two graphs $A$ and $B$ do not have the same number of nodes. So, in this case, they cannot be one-to-one and onto because each graph has different number of nodes. So, they are not isomorphic.
 Give a generic example:
 
 Graph A: has two nodes a and b as follows
