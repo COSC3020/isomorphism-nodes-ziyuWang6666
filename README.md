@@ -15,8 +15,8 @@ one-to-one and onto function (bijection) $f: V_1 \rightarrow V_2$ such that $(u,
 
 Assuming that two graphs $A$ and $B$ do not have the same number of nodes. To be isomorphism about every two graphs, it means that need exist a one-to-one and onto mapping between them. 
 
-A function f: A-->B is said to be one-to-one if each node in graph A maps to a distinct node in map to the same element in B. But, for the different number of nodes of two graph, because one node in A mapping to B may be exist several nodes match or haven't match any node in B, which is obviously violate one-to-one when different number of nodes between the graph A and the graph B.
+A function f: A-->B is said to be one-to-one if each node in graph A maps to a distinct node in the map to the same element in B. But, for the different number of nodes of two graphs, because one node in A mapping to B may exist several nodes match or haven't matched any node in B, which violates one-to-one when different number of nodes between the graph A and the graph B.
 
-A function f saied onto is if any node in the graph B has at least one edge mapping to some vetex in graph A. Since two graphs $A$ and $B$ do not have the same number of nodes, they can't be isomorphic.
+A function f said onto is if any node in graph B, there exists at least one node in graph A. In other words, the function is onto if it ensure that every element in Graph B has at least one corresponding element in Graph A. Since the two graphs, A and B, may not have the same number of nodes, nodes in graph B could match with some nodes in graph A, but one node in graph B may cannot match with any node in graph A.
 
-
+Thus, any two graphs with different numbers of nodes, could not be isomorphic.
